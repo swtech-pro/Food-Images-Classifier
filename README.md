@@ -84,4 +84,4 @@ This project is under the MIT License. See LICENSE.txt.
 
 ## ✨ Author
 
-Made with ❤️ by Your Name (replace with your info)
+Made with ❤️ by Sandeep Kumar Varshney
